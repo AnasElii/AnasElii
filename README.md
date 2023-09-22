@@ -1,4 +1,4 @@
-[![MasterHead][(https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif](https://i.imgur.com/UmO9d4n.png))]()
+[![MasterHead](https://i.imgur.com/UmO9d4n.png)]()
 ### Hi there 👋
 
 ## 💻 Tech Stack:
