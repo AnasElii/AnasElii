@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ## 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
 
 <table align="center">
   <tr>
