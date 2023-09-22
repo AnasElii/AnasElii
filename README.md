@@ -9,11 +9,11 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TAYBI&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TAYBI&theme=gotham&hide_border=true" alt="GitHub Streak" /></td>
+    <td align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aninossii&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aninossii&theme=gotham&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TAYBI&theme=gotham&color=ffffff&line=2aa889&point=599cab&area=true&hide_border=true" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aninossii&theme=gotham&color=ffffff&line=2aa889&point=599cab&area=true&hide_border=true" /></td>
   </tr>
 </table>
 
