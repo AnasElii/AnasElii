@@ -1,6 +1,9 @@
 [![MasterHead](https://i.imgur.com/UmO9d4n.png)](https://www.linkedin.com/in/anas-elouraini-a81155122/)
 
-<h1 align="center">Hi 👋, I'm Peter Kimanzi</h1>
+<h1 align="center">Hi 👋, I'm Anas El</h1>
+<h3 align="center">A Multi-Platform App developer</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 
 ## 💻 Tech Stack:
