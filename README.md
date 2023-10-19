@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anas El</h1>
 <h3 align="center">A Multi-Platform App developer</h3>
 
-- 🔭 I’m currently working on an app that make it easy for the Designer and Client to comunicate
+- 🔭 I'm currently working on an app that makes it easy for the Designer and Client to communicate
 - 🌱 I’m currently learning Js :3
 
 <!-- ## 📊 GitHub Stats:
