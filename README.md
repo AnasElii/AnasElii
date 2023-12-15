@@ -4,7 +4,15 @@
 <h3 align="center">A Multi-Platform App developer</h3>
 
 - 🔭 I'm currently maintene the eThSho app
+- 👯 I’m looking to collaborate on a <h1>Blockchin project</h1>
 - 🌱 I’m currently learning iOS and Android Devlopment
+- 💬 Ask me about Advance C++ :)
+-  📫 How to reach me: 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-elouraini-97274b2a1/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProAninoss)
+  
+
+
 
 <!-- ## 📊 GitHub Stats:
 
@@ -21,7 +29,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-elouraini-97274b2a1/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#) -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProAninoss)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
