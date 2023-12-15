@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anas El</h1>
 <h3 align="center">A Multi-Platform App developer</h3>
 
-- 🔭 I'm currently working on an app that makes it easy for the Designer and Client to communicate
-- 🌱 I’m currently learning Js :3
+- 🔭 I'm currently maintene the eThSho app
+- 🌱 I’m currently learning iOS and Android Devlopment
 
 <!-- ## 📊 GitHub Stats:
 
@@ -20,7 +20,7 @@
 -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-a81155122/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-elouraini-97274b2a1/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
