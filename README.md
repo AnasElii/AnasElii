@@ -4,7 +4,7 @@
 <h3 align="center">A Multi-Platform App developer</h3>
 
 - 🔭 I'm currently maintene the eThSho app
-- 👯 I’m looking to collaborate on a <h3>Blockchin project</h3>
+- 👯 I’m looking to collaborate on a Blockchin project
 - 🌱 I’m currently learning iOS and Android Devlopment
 - 💬 Ask me about Advance C++ :)
 
