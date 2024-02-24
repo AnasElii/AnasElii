@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/yKKxzsr.png)](https://www.linkedin.com/in/anas-elouraini-a81155122/)
 
 <h1 align="center">Hi 👋, I'm Anas El</h1>
 <h3 align="center">A Multi-Platform App developer</h3>
