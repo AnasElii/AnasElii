@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anas El</h1>
-<h3 align="center">A Multi-Platform App developer</h3>
+<h3 align="center">A Blockchain Technology developer and a Cryptography</h3>
 
 - 🔭 I'm currently maintene the eThSho app
 - 👯 I’m looking to collaborate on a Blockchin project
