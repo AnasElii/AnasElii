@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently maintene the eThSho app
 - 👯 I’m looking to collaborate on a Blockchin project
-- 🌱 I’m currently Learning about Blockchain Technology, Cryptography, Web 3.0, and Cryptocurrencies
+- 🌱 I’m currently Learning about Blockchain Technology, Cryptography, and Web 3.0
 - 💬 Ask me about Advance C++ :)
 
   
