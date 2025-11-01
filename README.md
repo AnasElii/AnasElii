@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Anas El</h1>
-<h3 align="center">A Blockchain Technology developer and a Cryptography</h3>
+<h3 align="center">A Blockchain Technology Developer</h3>
 
-- 🔭 I'm currently maintene the NFT Marketplace DApp
-- 👯 I’m looking to collaborate on a Blockchin project
-- 🌱 I’m currently Learning about Blockchain Technology, Cryptography, and Web 3.0
+- 🔭 I'm currently 
+- 🌱 I’m currently Learning about Blockchain Technology, Cryptography, and Graphics
 - 💬 Ask me about Advance C++ :)
 
   
